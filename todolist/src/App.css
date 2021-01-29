@@ -8,3 +8,17 @@ body {
   background-color: #292f36;
   color: #ffffff
 }
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+.select {
+  margin-left: 1rem;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
